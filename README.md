@@ -1,5 +1,7 @@
 ## A. docker pull
-
+```
+docker pull ketiroxteam/object-detection-tracking-2d
+```
 
 ## B. docker build
 ### 1. docker build
